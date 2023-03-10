@@ -9,6 +9,9 @@ public class Main {
         respuestaPrimera,respuestaSegundo,respuestaTercero;
         int[] indice, respuestasCorrectas, indiceCategoria,respuestaCorrecta;
 
+        //un comentario para no cambiar mucho el archivo
+
+
 
         InstruccionesYBienvenida.bienvenida();
         preguntas = PreguntasYRespuestasDelJuego.inicializarPreguntas();
